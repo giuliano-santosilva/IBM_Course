@@ -1,61 +1,35 @@
-Visão geral do cursoSituação: Traduzido automaticamente do Inglês
-Traduzido automaticamente do Inglês
-Bem-vindo ao curso Python para Ciência de Dados, IA e Desenvolvimento. Depois de concluir este curso, o senhor terá o conhecimento básico de Python e adquirirá uma boa compreensão dos diferentes tipos de dados. O senhor também aprenderá a usar listas e tuplas, dicionários e conjuntos Python. Além disso, adquirirá os conceitos de condição e ramificação e saberá como implementar loops, criar funções, realizar o Tratamento de exceção e criar objetos. Além disso, será proficiente na leitura e gravação de arquivos e poderá implementar maneiras exclusivas de coletar dados usando APIs e web scraping. Além dos laboratórios do Módulo, o senhor comprovará suas habilidades em um projeto avaliado pelos colegas e seu conhecimento geral no teste final.
+# Módulo 1: Noções básicas de Python
 
-Conteúdo do curso
+## Sobre o curso
 
-Este curso está dividido em cinco Módulos. O senhor deve estabelecer a meta de concluir pelo menos um módulo por semana.
+## Tipos    
+## Expressões e variáveis    
+## Operadores de String    
 
-Módulo 1: Noções básicas de Python
+# Módulo 2: Estruturas de dados do Python
 
-Sobre o curso
+## Listas e tuplas    
+## Dicionários    
+## Conjuntos    
 
-Tipos
+# Módulo 3:Fundamentos da programação Python
 
-Expressões e variáveis
+## Condições e ramificações    
+## Loops    
+## Funções    
+## Tratamento de exceção    
+## Objetos e classes    
+## Prática com os fundamentos da programação Python    
 
-Operadores de String
+# Módulo 4: Trabalhando com dados em Python
 
+## Leitura e gravação de arquivos com o Open    
+## Pandas    
+## Numpy em Python    
 
-Módulo 2: Estruturas de dados do Python
+# Módulo 5: APIs e coleta de dados
 
-Listas e tuplas
+## APIs simples    
+## APIs REST, Web Scraping e trabalho com arquivos    
+## Projeto final    
 
-Dicionários
-
-Conjuntos
-
-
-Módulo 3: Fundamentos da programação Python
-
-Condições e ramificações
-
-Loops
-
-Funções
-
-Tratamento de exceção
-
-Objetos e classes
-
-Prática com os fundamentos da programação Python
-
-
-Módulo 4: Trabalhando com dados em Python
-
-Leitura e gravação de arquivos com o Open
-
-Pandas
-
-Numpy em Python
-
-
-Módulo 5: APIs e coleta de dados
-
-APIs simples
-
-APIs REST, Web Scraping e trabalho com arquivos
-
-Exame final
-
-O curso contém uma variedade de recursos de aprendizagem: Vídeos, atividades, laboratórios, projetos, prática, testes com notas e leituras. Os vídeos e as leituras apresentam as instruções. Os laboratórios e as atividades dão suporte a essa instrução com experiências práticas de aprendizado. As discussões permitem que o senhor interaja e aprenda com seus colegas. Um projeto de revisão por pares que imita cenários do mundo real incentiva os alunos a mostrar suas habilidades. Os testes práticos permitem que os alunos testem seu conhecimento sobre o que aprenderam. Por fim, os testes com notas indicam se o senhor aprendeu bem os conceitos do curso.
